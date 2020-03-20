@@ -4,5 +4,5 @@
 
 ## 專案介紹
 
-[](https://github.com/ritatang242/Coffee_for_peace_ECwebsite/blob/master/Description.png =400) <br>
+![](https://github.com/ritatang242/Coffee_for_peace_ECwebsite/blob/master/Description.png | width=100) <br>
 More Detail on: [SlideShare](https://www.slideshare.net/secret/wwHnQ4B7qr2trJ)
