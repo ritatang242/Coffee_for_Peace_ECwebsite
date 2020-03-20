@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:微軟正黑體, Garamond ;
+	  margin: 0px;
+    background-color: black; /*#EAE5E5*/
+}
+
+
+.navbar-inverse {
+  background-color: black; /* navbar bg & margin */
+  border-color: 0;
+}
+
+.navbar-inverse .navbar-nav > .active > a { /* 下拉選單當前的設定 */
+  color: #272727;
+  background-color: #f2f2f2;
+}
+
+.navbar-inverse .navbar-toggle:hover { /* hamburger bar 正方形填色 */
+  background-color: black;
+}
+
+
+.container .row {
+  color: #EDEDED;
+}
+
+/* Style the footer */
+.footer {
+    float: left; /* 若想固定footer位置要加上 bottom: 0px; */
+	  width: 100%;
+    bottom: 0px;
+    background-color: black;
+    padding: 2%;
+    text-align: center;
+    color: white;
+    font-size: 12pt;
+}
+
+/* footer icon setting */
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only{
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+

@@ -1,0 +1,49 @@
+﻿* {
+font-family: 微軟正黑體, Garamond;	
+text-decoration: none;
+
+}
+
+body {
+padding-top:8%;	
+background: black url("asset/d5.JPG") no-repeat;
+background-size: 100%;
+}
+
+th {
+	background-color: black;
+	color: white;	
+}
+
+td {
+	background-color: black;
+	color: #F6F6F6;
+}
+
+h1,h3,h4,p{
+color: white;
+}
+
+/* unvisited link */
+a:link {
+  color: gray;
+}
+
+/* visited link */
+a:visited {
+  color: gray;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+
+.hover2:hover {
+  color: white;
+}
